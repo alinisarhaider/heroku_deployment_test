@@ -1,8 +1,7 @@
 numpy
 Flask==1.1.1
 flask_cors==3.0.8
-prettytable==0.7.2
-scikit_learn==0.21.2
+sqlalchemy
 Jinja2==2.10.1
 gunicorn==19.9.0
 certifi==2019.11.28
