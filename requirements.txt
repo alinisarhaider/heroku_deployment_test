@@ -4,7 +4,7 @@ flask_cors==3.0.8
 sqlalchemy
 flask_sqlalchemy
 psycopg2
-Jinja2==2.10.1
+Jinja2==2.11.3
 gunicorn==19.9.0
 certifi==2019.11.28
 itsdangerous==1.1.0
