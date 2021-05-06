@@ -1,6 +1,6 @@
 numpy
 Flask==1.1.1
-flask_cors==3.0.8
+flask_cors==3.0.9
 sqlalchemy
 flask_sqlalchemy
 psycopg2
